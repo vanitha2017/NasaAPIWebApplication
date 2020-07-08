@@ -1,0 +1,12 @@
+C:\Repos\NasaAPIWebApplication\bin\Debug\NasaAPIWebApplication.Views.dll
+C:\Repos\NasaAPIWebApplication\bin\Debug\NasaAPIWebApplication.Views.pdb
+C:\Repos\NasaAPIWebApplication\bin\Debug\appsettings.Development.json
+C:\Repos\NasaAPIWebApplication\bin\Debug\appsettings.json
+C:\Repos\NasaAPIWebApplication\bin\Debug\Properties\launchSettings.json
+C:\Repos\NasaAPIWebApplication\bin\Debug\NasaAPIWebApplication.exe
+C:\Repos\NasaAPIWebApplication\bin\Debug\NasaAPIWebApplication.dll
+C:\Repos\NasaAPIWebApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Repos\NasaAPIWebApplication\bin\Debug\NasaAPIWebApplication.pdb
+C:\Repos\NasaAPIWebApplication\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Repos\NasaAPIWebApplication\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Repos\NasaAPIWebApplication\obj\Debug\docker-compose.dcproj.CopyComplete

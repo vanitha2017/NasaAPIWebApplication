@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uBSPvBgmFS74LF4TFtdBGAFKac1F5v6GHAz+PJMCEBYWyMCDySuVxjqxJiDCcc9O0o0PMCYnM2LETjY23d5Tbw==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\NasaAPIWebApplication\\NasaAPIWebApplication\\NasaAPIWebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AVasireddy\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\AVasireddy\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
+    "C:\\Users\\AVasireddy\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\AVasireddy\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\AVasireddy\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
